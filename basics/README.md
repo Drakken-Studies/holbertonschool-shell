@@ -9,4 +9,5 @@
 - Created script "6-firstdirectory". When run, this script will create a new directory called "my_first_directory" inside the /tmp directory.
 - Created script "7-movethatfile". When run, this script will move the file "betty" from /tmp into /tmp/my_first_directory.
 - Created script "8-firstdelete". When run, this script will delete the file "betty" from /tmp/my_first_directory.
-- Created script "9-firstdirdeletion". When run, this scrip will delete the directory /tmp/my_first_directory.
+- Created script "9-firstdirdeletion". When run, this scripy will delete the directory /tmp/my_first_directory.
+- Created script "10-back". When run, this script will move you back one directory.
