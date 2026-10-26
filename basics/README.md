@@ -7,3 +7,4 @@
 - Created script "4-listmorefiles". When run, this script will print a list of all files in their longer form, including hidden files
 - Created script "5-listfiledigitonly". When run, this script will print a list of all files, including hidden files, with user and group IDs as numerical values.
 - Created script "6-firstdirectory". When run, this script will create a new directory called "my_first_directory" inside the /tmp directory.
+- Created script "7-movethatfile". When run, this script will move the file "Betty" from /tmp into /tmp/my_first_directory.
