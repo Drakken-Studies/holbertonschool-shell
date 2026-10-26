@@ -13,4 +13,5 @@
 - Created script "10-back". When run, this script will move you back one directory.
 - Created script "11-lists". When run, this script will print all files, including hidden files from the current directory, its parent directory and the /boot directory.
 - Created script "12-file_type". When run, this script will print the file type of "imafile" in /tmp directory.
-- Created script "13-symbolic_link". When run, this script will create a symbolic link to /bin/ls, called "_ls_".
+- Created script "13-symbolic_link". When run, this script will create a symbolic link to /bin/ls, called "__ls__".
+- Created script "14-copy_html". When run, this script will cp files in the current working directory in the parent directory. It will only copy files that do not exist or are newer versions of files in the parent folder.
