@@ -1,2 +1,2 @@
 #!/bin/bash
-cp *html --update=older ..
+cp --update=older *html ..
