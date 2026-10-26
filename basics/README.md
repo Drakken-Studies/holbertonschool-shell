@@ -5,4 +5,5 @@
 - Created script "2-bring_me_home". When run, this script will change to the users home directory.
 - Created srcipt "3-listfiles". When run, this script will print a list of files in their longer form.
 - Created script "4-listmorefiles". When run, this script will print a list of all files in their longer form, including hidden files
-- Created script "5-listfiledigitonly". When run, this script will print a list of all files, including hidden files, with user and group IDs as numerical values..
+- Created script "5-listfiledigitonly". When run, this script will print a list of all files, including hidden files, with user and group IDs as numerical values.
+- Created script "6-firstdirectory". When run, this script will create a new directory called "my_first_directory" inside the /tmp directory.
