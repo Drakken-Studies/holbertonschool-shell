@@ -12,4 +12,4 @@
 - Created script "9-firstdirdeletion". When run, this scripy will delete the directory /tmp/my_first_directory.
 - Created script "10-back". When run, this script will move you back one directory.
 - Created script "11-lists". When run, this script will print all files, including hidden files from the current directory, its parent directory and the /boot directory.
-- Created script "12-file_types". When run, this script will print the file type of "imafile" in /tmp directory.
+- Created script "12-file_type". When run, this script will print the file type of "imafile" in /tmp directory.
