@@ -11,3 +11,4 @@
 - Created script "8-firstdelete". When run, this script will delete the file "betty" from /tmp/my_first_directory.
 - Created script "9-firstdirdeletion". When run, this scripy will delete the directory /tmp/my_first_directory.
 - Created script "10-back". When run, this script will move you back one directory.
+- Created script "11-lists". When run, this script will print all files, including hidden files from the current directory, its parent directory and the /boot directory.
