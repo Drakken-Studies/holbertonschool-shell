@@ -16,4 +16,5 @@
 - Created script "13-symbolic_link". When run, this script will create a symbolic link to /bin/ls, called "__ls__".
 - Created script "14-copy_html". When run, this script will copy files in the current working directory in the parent directory. It will only copy files that do not exist or are newer versions of files in the parent folder.
 - Created script "15-lets_move". When run, this script will copy files that start with uppercase letters to the directory, /tmp/u.
-- Created script "16-clean emacs". When run, this sctip will delete all files ending with the "~" character, within the working directory.
+- Created script "16-clean emacs". When run, this script will delete all files ending with the "~" character, within the working directory.
+- Created script "17-tree". When run, this script will create the directory welcome/to/school, including its parent directories if they do not already exist.
