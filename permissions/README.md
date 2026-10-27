@@ -10,4 +10,4 @@
 - Created script "7-everybody". When run, this script adds execution permission to the owner, the group owner and the other users, to the file hello.
 - Created script "8-James_Bond". When run, this script sets the permission to the file hello to 007.
 - Created script "9-John_Doe". When run, this script sets the mode of the file hello to -rwxr-x-wx.
-
+- Created script "10-mirror_permissions, this sctipt copys the permissions of the referenced file.
