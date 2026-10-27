@@ -13,3 +13,5 @@
 - Created script "10-mirror_permissions" When run, this sctipt copys the permissions of the referenced file.
 - Created script "11-directories_permissions". When run, this script adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 - Created script "12-directory_permissions". When run, this script creates a directory called my_dir with permissions 751 in the working directory.
+- Created script "13-change_group". When run, this script changes the group owner to school for the file hello.
+
