@@ -8,3 +8,5 @@
 - Created script "5-execute". When run, this script update the file "hello" with execute persmissions for the owner.
 - Created script "6-multiple_permissions". When run, this script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 - Created script "7-everybody". When run, this script adds execution permission to the owner, the group owner and the other users, to the file hello.
+- Created script "8-James_Bond". When run, this script sets the permission to the file hello to 007.
+
