@@ -6,5 +6,5 @@
 - Created script "3-new_owner". When run, this script will change the owner of file "hello" to the user "betty".
 - Created script "4-empty". When run, this script will create an empty file called "hello".
 - Created script "5-execute". When run, this script update the file "hello" with execute persmissions for the owner.
-- Created script "6-multiple_permissions". When run the script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
-- 
+- Created script "6-multiple_permissions". When run, this script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+- Created script "7-everybody". When run, this script adds execution permission to the owner, the group owner and the other users, to the file hello.
