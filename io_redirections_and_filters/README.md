@@ -6,4 +6,5 @@
 3 - Created script "3-twofiles". When run, this script will display the contents of files "/etc/passwd" and "/etc/hosts"
 4 - Created script "4-lastlines". When run, this scrip will display the last 10 lines of the file "/etc/passwd".
 5 - Created script "5-firstlines". When run, this script will display the first 10 lines of the file "/etc/passwd".
+6 - Created script "6-third_line". When run, this script will print the third line from file "iacta".
 
